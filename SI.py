@@ -11,5 +11,4 @@ while True:
             pygame.quit()
         
     
-    
-    pygame.display.update()
+ 
